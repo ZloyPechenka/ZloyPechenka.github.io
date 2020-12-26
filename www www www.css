@@ -1,0 +1,72 @@
+./*phone*/
+@media screen and (max-width:800px){
+	body{
+		background-color: red;
+	}
+	.lol{
+	min-height: 200px;
+	margin: auto;
+	background-color: white;
+
+	padding: 15px;
+	border: 1px solid grey;
+}
+.img2{
+	width:100%;
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+}
+.img{
+	width: 100%;
+}
+.vid{
+	width: 100%s;
+	height: 320px;
+	display: block;
+	margin: auto;
+}
+}
+/*pc*/
+@media screen and (min-width:800px){
+	body{
+		background-color: red;
+	}
+	.lol{
+	width: 700px;
+	min-height: 200px;
+	margin: auto;
+	background-color: white;
+
+	padding: 15px;
+	border: 1px solid grey;
+}
+.img{
+	width: 600px;
+	display: block;
+	margin: auto;
+}
+.img2{
+	width: 600px;
+	height: 320px;
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+}
+.vid{
+	width: 500px;
+	height: 320px;
+	display: block;
+	margin: auto;
+}
+}
+.text-center{
+	text-align: center;
+}
+.img3{
+	height: 320px;
+	display: block;
+	margin: auto;
+}
+
+
